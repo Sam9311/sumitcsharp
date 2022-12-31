@@ -1,0 +1,128 @@
+Revision:
+
+
+	  1.CLR, CTS, CLS, : Common Language Runtime, Common Type System, Common Language System
+
+          2.Value Types and Reference Types : primitives and reference types
+
+	  3.Classes and Objects : Classes will contain the logic for a particular execution of desired type,
+ Objects are the references of the classes created to access
+ all the methods and parameters allowable to access outside the Class
+
+
+	  4.Access Specifiers----- public ---> It can be accessed anywhere , 
+			private : - It can access its data membrs and methods only inside the class and not outside of it, 
+				   protected ---> the data members and methoda of this class can be accessed in inherited classes only
+				   internal (Package) ---->this can be accessed only inside the package, this is same as default in java which may or may not be written while declaring it
+	  5.Properties, Auto Properties : properties are written in C# to declare getters and setters of already declared variables 
+example :
+private int qty;
+private int Qty{
+get{return this.qty;}
+set(int qty){this.qty=qty;}
+} =>The Qty in this case is known as property 
+
+private int Qty{
+get;set;} => this is known as auto properties and can be used as bot variables and properties...
+
+	  6.Static Class  (Helper classes) : Static classes are declared with static methods and static data members only, if we want to access any 'public static' method outside that class we will need to access it using {FullyQualifiedClassName.MethodName}
+
+	  7.Concrete Class : Concrete class is the class which will not have any abstract methods.
+
+	  8.Parent Class (Super , Base) =>  Concept of inheritance
+	  9.Child Class ( Sub, Derived) => Concept of inheritance
+	  10.Object (Object)---Parent class for all .net types( Universal SuperClass in .Net)
+
+	  11.Functions:
+			static function (Shared function, class level)
+					
+			member functions (instance functions)
+				has access for self reference ----- this
+				constructor : initialisation of variables, it is compulsory to have default constructor in class for object declaration...
+				destructor: deletes the desired object from heap memory (Cpp)
+				setter:set the value of private data member
+				getter: get the value of private data member 
+				virtual : this keyword is needed to give information in parent class about the method to be overridden
+				abstract : abstract keyword is used for the reused function which do not have particular/specific functionality in declared class.
+				e.g. Fruit will have function calles Taste() but Fruit can not have specific Taste() but the children {Mango, Orange, Apple} will
+				have it hence, in public abstract class Fruit{public abstract taste(){}}
+				
+		override : It can override those functions which are either abstract in parent class or marked with keyword virtual while declaration,
+			abstract classes have no need to actually write the override keyword.
+
+	 12.MemberInitialized List: Constructor chaining as follows 
+public Fruit():this(int a,int b){}
+public Fruit(int x,inty){
+this.x=x;this.y=y;}
+
+	 13.Constructor Chaining: demonstrated above
+	 14.Inheritance : extending from one class to the other
+public class Manager:Employee{
+}
+	 15.Polymorphism : same function name different functionality
+
+.NET Types:
+
+
+		namespace: same as package in java
+
+				Enum------value type
+				class-----------------------Reference
+				structure---value type
+				interface--------------------Reference
+				delegate---------------------Reference type
+				event------------------------Reference type
+
+				namespace
+					class
+					structure : structures in C# can have constructors and it's objects can be created unlike in cpp
+
+					interface : pure abstraction, have all public abstract methods as default, all declared methods need to 
+						be implemented in implementation Class
+					delegate
+					event
+					namespace
+						class
+						structure
+						interface
+						delegate
+						event
+				
+
+	
+
+Constructor
+		default constructor : no parameters
+		parameterized constrcutor
+
+		Cloning-----
+				Readymade interface  IClonable
+
+		Deep Copy: copying whole object
+Shallow Copy : copy of reference
+
+		int c=45;
+		int d=c;
+	
+		void Show() {
+	
+		 int count=45;
+		 string company="Transflower";
+
+			{
+				string name="Ravi";
+				string myName=name;
+				myName="Rajiv";
+				name=null;
+
+			}
+		}
+
+
+
+
+		
+		Shallow Copy
+		
+		Complex c1=new Complex(45,67)
+		Complex c2=c1;
