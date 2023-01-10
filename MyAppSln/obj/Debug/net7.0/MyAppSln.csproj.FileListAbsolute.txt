@@ -29,3 +29,34 @@ D:\Saurabh And Sumit\cSharp\SaurabhCsharp\SaurabhCsharp\MyAppSln\obj\Debug\net7.
 D:\Saurabh And Sumit\cSharp\SaurabhCsharp\SaurabhCsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.pdb
 D:\Saurabh And Sumit\cSharp\SaurabhCsharp\SaurabhCsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.genruntimeconfig.cache
 D:\Saurabh And Sumit\cSharp\SaurabhCsharp\SaurabhCsharp\MyAppSln\obj\Debug\net7.0\ref\MyAppSln.dll
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\appsettings.Development.json
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\appsettings.json
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\MyAppSln.staticwebassets.runtime.json
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\MyAppSln.exe
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\MyAppSln.deps.json
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\MyAppSln.runtimeconfig.json
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\MyAppSln.dll
+D:\WPT\sumitcsharp\MyAppSln\bin\Debug\net7.0\MyAppSln.pdb
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.csproj.AssemblyReference.cache
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.AssemblyInfoInputs.cache
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.AssemblyInfo.cs
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.csproj.CoreCompileInputs.cache
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.MvcApplicationPartsAssemblyInfo.cache
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.RazorAssemblyInfo.cache
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.RazorAssemblyInfo.cs
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\staticwebassets\msbuild.MyAppSln.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\staticwebassets\msbuild.build.MyAppSln.props
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyAppSln.props
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyAppSln.props
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\staticwebassets.build.json
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\staticwebassets.development.json
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\scopedcss\bundle\MyAppSln.styles.css
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\scopedcss\projectbundle\MyAppSln.bundle.scp.css
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.dll
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\refint\MyAppSln.dll
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.pdb
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\MyAppSln.genruntimeconfig.cache
+D:\WPT\sumitcsharp\MyAppSln\obj\Debug\net7.0\ref\MyAppSln.dll
