@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Saurabh And Sumit\\cSharp\\SaurabhCsharp\\SaurabhCsharp\\MyAppSln\\MyAppSln.csproj": {}
+    "D:\\WPT\\sumitcsharp\\MyAppSln\\MyAppSln.csproj": {}
   },
   "projects": {
-    "D:\\Saurabh And Sumit\\cSharp\\SaurabhCsharp\\SaurabhCsharp\\MyAppSln\\MyAppSln.csproj": {
+    "D:\\WPT\\sumitcsharp\\MyAppSln\\MyAppSln.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Saurabh And Sumit\\cSharp\\SaurabhCsharp\\SaurabhCsharp\\MyAppSln\\MyAppSln.csproj",
+        "projectUniqueName": "D:\\WPT\\sumitcsharp\\MyAppSln\\MyAppSln.csproj",
         "projectName": "MyAppSln",
-        "projectPath": "D:\\Saurabh And Sumit\\cSharp\\SaurabhCsharp\\SaurabhCsharp\\MyAppSln\\MyAppSln.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "D:\\Saurabh And Sumit\\cSharp\\SaurabhCsharp\\SaurabhCsharp\\MyAppSln\\obj\\",
+        "projectPath": "D:\\WPT\\sumitcsharp\\MyAppSln\\MyAppSln.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\WPT\\sumitcsharp\\MyAppSln\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -29,3 +29,34 @@ D:\Saurabh And Sumit\cSharp\SumitCsharp\MyFirstApp\obj\Debug\net7.0\refint\MyFir
 D:\Saurabh And Sumit\cSharp\SumitCsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.pdb
 D:\Saurabh And Sumit\cSharp\SumitCsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.genruntimeconfig.cache
 D:\Saurabh And Sumit\cSharp\SumitCsharp\MyFirstApp\obj\Debug\net7.0\ref\MyFirstApp.dll
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\appsettings.Development.json
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\appsettings.json
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\MyFirstApp.staticwebassets.runtime.json
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\MyFirstApp.exe
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\MyFirstApp.deps.json
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\MyFirstApp.runtimeconfig.json
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\MyFirstApp.dll
+D:\WPT\sumitcsharp\MyFirstApp\bin\Debug\net7.0\MyFirstApp.pdb
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.csproj.AssemblyReference.cache
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.AssemblyInfo.cs
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.MvcApplicationPartsAssemblyInfo.cache
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.RazorAssemblyInfo.cache
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.RazorAssemblyInfo.cs
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\staticwebassets\msbuild.MyFirstApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MyFirstApp.props
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstApp.props
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyFirstApp.props
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\scopedcss\bundle\MyFirstApp.styles.css
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\scopedcss\projectbundle\MyFirstApp.bundle.scp.css
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.dll
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\refint\MyFirstApp.dll
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.pdb
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\MyFirstApp.genruntimeconfig.cache
+D:\WPT\sumitcsharp\MyFirstApp\obj\Debug\net7.0\ref\MyFirstApp.dll

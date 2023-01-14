@@ -23,6 +23,33 @@ public class HomeController : Controller
         return View();
     }
 
+
+ public IActionResult Login()
+    {
+        return View();
+    }
+
+ public IActionResult Register()
+    {
+        Console.WriteLine("abcdef");
+        return View();
+    }
+public IActionResult Homes()
+    {
+        Console.WriteLine("abcdef");
+        return View();
+    }
+
+ public IActionResult TeacherInfo()
+    {
+        return View();
+    }
+
+ public IActionResult Display()
+    {
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
