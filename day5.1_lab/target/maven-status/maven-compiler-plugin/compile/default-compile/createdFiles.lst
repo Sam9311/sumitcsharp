@@ -1,0 +1,16 @@
+pojos\AadharCard.class
+pojos\Hobby.class
+dao\ProjectsDao.class
+tester\TestInsert.class
+dao\StudentDaoImpl.class
+pojos\Status.class
+pojos\BaseEntity.class
+tester\TestHibernate.class
+pojos\Educational_Qual.class
+pojos\Student.class
+pojos\Admission.class
+pojos\Projects.class
+dao\StudentDao.class
+pojos\Course.class
+utils\HibernateUtils.class
+dao\CourseDao.class
